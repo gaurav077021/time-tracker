@@ -1,2 +1,3 @@
 Hi there
 This line is added on github, lets pull and check the changes
+This line was added by the new branch.
